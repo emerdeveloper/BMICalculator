@@ -12,7 +12,7 @@ Applying the concepts:
 * Multi-screen 
 * multi-screen with Segues
 
-# Funcinality
+# Functionality
 A beautiful Body mass index (BMI) Calculator App which will be able to calculate a user's BMI.
 
 
